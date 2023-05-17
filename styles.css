@@ -1,4 +1,8 @@
 .headers {
-    background-color: rgb(245, 151, 141);
+    background-color: red;
 
+}
+
+h1 {
+    background-color: aqua;
 }
